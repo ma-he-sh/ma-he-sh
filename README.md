@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-### Happy New Year 2021
-
 <!--
 **ma-he-sh/ma-he-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
