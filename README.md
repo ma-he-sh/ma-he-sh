@@ -1,19 +1,6 @@
-### Happy New Year 2024 👋
+### Solar Eclipse 2024 - April 8
 
-```
-    _          _             _           _           
-  /\ \       / /\          /\ \      _  /\ \         
- /  \ \     / /  \        /  \ \    /\_\\ \ \        
-/ /\ \ \   / / /\ \      / /\ \ \  / / / \ \ \       
-\/_/\ \ \ / / /\ \ \     \/_/\ \ \/ / /   \ \ \      
-    / / //_/ /  \ \ \        / / /\ \ \____\ \ \     
-   / / / \ \ \   \ \ \      / / /  \ \________\ \    
-  / / /  _\ \ \   \ \ \    / / /  _ \/________/\ \   
- / / /_/\_\\ \ \___\ \ \  / / /_/\_\          \ \ \  
-/ /_____/ / \ \/____\ \ \/ /_____/ /           \ \_\ 
-\________/   \_________\/\________/             \/_/ 
-
-```
+![Captured Phases of Solar Eclipse](https://images.unsplash.com/photo-1712986391886-9821f4634366?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <!--
 **ma-he-sh/ma-he-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
