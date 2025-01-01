@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/ma-he-sh/ma-he-sh/refs/heads/main/newyear2025.svg)
+
+
 ### Solar Eclipse 2024 - April 8
 
 ![Captured Phases of Solar Eclipse](https://images.unsplash.com/photo-1712986391886-9821f4634366?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
